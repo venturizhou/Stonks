@@ -7,5 +7,6 @@ Several of the topics within this project will be test driven development to ens
 ## Requirements
 Project is looking to be primarily in Python with some injection of C/C++ to speed up our scripts, some ability to use SQL (can be easily learned). A link to the proposed api and it’s library is [here](https://github.com/alpacahq/alpaca-trade-api-python). 
 
-
+The project repo would be setup here or can be changed. 
+[Repo](https://github.com/venturizhou/Stonks)
 
